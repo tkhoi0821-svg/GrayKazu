@@ -1,0 +1,12 @@
+#######################################
+# Datatypes (KEYWORD1 - Màu cam đậm)
+#######################################
+
+GrayKazu	KEYWORD1
+
+#######################################
+# Variables/Constants (KEYWORD2 - Màu cam nhạt)
+#######################################
+
+epd_bitmap_allArray	KEYWORD2
+epd_bitmap_allArray_LEN	KEYWORD2
