@@ -22,7 +22,7 @@ GrayKazu/
 ├── src/
 │   └── GrayKazu-color.h
 |    └──GrayKazu.h
-|     └──GrayKazu_pnd.h          # File chứa 31 mảng dữ liệu icon PROGMEM
+|     └──GrayKazu_pnd.h          
 ├── examples/
 │   ├── DisplayAllIcons     # Code mẫu quét và hiển thị toàn bộ icon
 │   └── ...
