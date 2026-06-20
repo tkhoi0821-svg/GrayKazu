@@ -1,0 +1,21 @@
+#######################################
+# Datatypes and Constants (KEYWORD1)
+#######################################
+epd_bitmap_allArray_LEN	KEYWORD1
+
+#######################################
+# Arrays and Bitmaps (LITERAL1)
+#######################################
+epd_bitmap_allArray	LITERAL1
+GrayKazu	LITERAL1
+GrayKazu_Color	LITERAL1
+GrayKazu_meme	LITERAL1
+GrayKazu_mini_meme	LITERAL1
+GrayKazu_pnd	LITERAL1
+
+#######################################
+# Examples (LITERAL2)
+#######################################
+DisplayAllIcons	LITERAL2
+memez	LITERAL2
+pndTest	LITERAL2
